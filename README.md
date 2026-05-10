@@ -1,4 +1,4 @@
-# Desafio da disciplina do curso de Pós-Graduação em Automação
+# Desafio da disciplina do curso Pós-graduação em Automação de Testes de Software
 
 Pré-requisitos:
 Declare um vetor contendo informações sobre usuários de um site, contendo as propriedades: id, nome, email, senha e expirado (boleano, pode ser true ou false). Adicione ao menos um dos usuarios como expirado sendo true.
